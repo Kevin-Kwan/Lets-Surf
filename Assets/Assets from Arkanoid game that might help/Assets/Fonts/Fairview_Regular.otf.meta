@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff663bc86ea3c504ab361ee42b64e28d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fairview
+  fontNames:
+  - Fairview
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e92a34e53651a9b44b78bf4edaa2687b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

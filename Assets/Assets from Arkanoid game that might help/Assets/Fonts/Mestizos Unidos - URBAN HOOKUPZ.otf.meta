@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 34ea030ef11ce9a4e8172e4542a517bd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MESTIZOS UNIDOS -URBAN HOOKUPZ
+  fontNames:
+  - MESTIZOS UNIDOS -URBAN HOOKUPZ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

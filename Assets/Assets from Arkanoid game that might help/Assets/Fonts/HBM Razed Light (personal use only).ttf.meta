@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c2d8c970bb9c1e8458305a630dd23261
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Razed
+  fontNames:
+  - Razed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 911e068c6c6bf9c4ca01f07243ecc41d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

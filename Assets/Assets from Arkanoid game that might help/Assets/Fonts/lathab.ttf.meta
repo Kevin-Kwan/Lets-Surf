@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: add2031fea7435f49b085c2e7fadca9d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Latha
+  fontNames:
+  - Latha
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d45ff350b9f109d43a2968ea0d890962, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

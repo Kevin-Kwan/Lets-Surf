@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: cec49857049b9284792f87f1b4331994
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kozuka Mincho Pro
+  fontNames:
+  - Kozuka Mincho Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e73a66e0ef03a2440b25fe1a67162c70, type: 3}
+  - {fileID: 12800000, guid: ca383fb77cdb4384d8b4b7abc17897dd, type: 3}
+  - {fileID: 12800000, guid: 6efc1028e542167478c0b83010c3b372, type: 3}
+  - {fileID: 12800000, guid: 6e017df892a1b924d99f096a0be59aae, type: 3}
+  - {fileID: 12800000, guid: a64585e96900662448da7d2a98cdb5b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

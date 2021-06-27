@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bce9425d5bb17b440a72ac6f362af589
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bubble Club
+  fontNames:
+  - Bubble Club
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02686d33e57b1314b8dd13277e978ada, type: 3}
+  - {fileID: 12800000, guid: 96b1701c5148c53429e39d25587f627a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

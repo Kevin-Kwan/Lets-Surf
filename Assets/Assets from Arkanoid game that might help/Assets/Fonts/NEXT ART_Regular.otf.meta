@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 973c95fe92904994eb01ebbe7664d32d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NEXT ART
+  fontNames:
+  - NEXT ART
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33ac8601f32dd7c4e8f5c23671ad50e4, type: 3}
+  - {fileID: 12800000, guid: d115a3b881f349d4696c41106f4d0705, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
