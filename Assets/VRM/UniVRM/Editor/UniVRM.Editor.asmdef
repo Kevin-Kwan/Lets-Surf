@@ -1,0 +1,20 @@
+{
+    "name": "UniVRM.Editor",
+    "references": [
+        "VRM",
+        "UniJSON",
+        "UniHumanoid",
+        "MeshUtility",
+        "UniUnlit"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

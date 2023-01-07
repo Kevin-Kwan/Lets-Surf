@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac31155c8b1712141b81fe81de97d26d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Festival
+  fontNames:
+  - Festival
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e5525cf05d303e2439d214f97a2329bb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

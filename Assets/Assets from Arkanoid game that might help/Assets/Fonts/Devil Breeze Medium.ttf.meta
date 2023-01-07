@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f80df9a0ff901aa4c9b29c8c4d26b9a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Devil Breeze
+  fontNames:
+  - Devil Breeze
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d8d22190c90f8b047917ab14197f622d, type: 3}
+  - {fileID: 12800000, guid: a6a7dc874f4c3ed4b89c8258557d9791, type: 3}
+  - {fileID: 12800000, guid: 4555edde75af70447a762394f1fb882d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2c609d8e7169184458c3a53bb3c9fb28
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: April Fools' Day
+  fontNames:
+  - April Fools' Day
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d7e48ca273143e141805ec6bc293d927, type: 3}
+  - {fileID: 12800000, guid: 4634cbae9d7d8e24791d438e2b3041dc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

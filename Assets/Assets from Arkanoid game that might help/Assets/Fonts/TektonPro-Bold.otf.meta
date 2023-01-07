@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4078a57ea4e1d964783118802762191a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tekton Pro
+  fontNames:
+  - Tekton Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00dabad15dbea224c8b4135f9c9b2adf, type: 3}
+  - {fileID: 12800000, guid: 0021f79943c435d46bf6b8b271b34d1b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

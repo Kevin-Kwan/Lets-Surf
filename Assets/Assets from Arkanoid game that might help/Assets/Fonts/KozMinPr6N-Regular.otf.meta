@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2b51d4a4c69162540ab0e46d70191bd4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kozuka Mincho Pr6N
+  fontNames:
+  - Kozuka Mincho Pr6N
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44e1ca917ef63214186e59859928f1dd, type: 3}
+  - {fileID: 12800000, guid: 11911ba9af7ffcd41bbc1180e128a3bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

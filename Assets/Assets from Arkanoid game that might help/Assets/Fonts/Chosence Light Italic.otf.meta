@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2fa379f0e441eab45afded9f84e473eb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chosence Light
+  fontNames:
+  - Chosence Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b1d1af95921489429280c6248fd2542, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
